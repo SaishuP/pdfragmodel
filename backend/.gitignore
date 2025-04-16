@@ -1,0 +1,35 @@
+#backend files
+venv/
+uploads/
+vectorstores/
+__pycache__/
+
+# Python-related files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment and IDE files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# PDF temporary files
+*.tmp
+
+# Local development files
+.DS_Store
+.vercel
